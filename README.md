@@ -22,11 +22,15 @@ Worked with:
 
 ![gross_earnings_distribution](gross_earnings_distribution.jpg)
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+![distribution_genre](Distribution_genre.jpg)
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+![average_gross_earnings](Average_Gross_Earnings.png)
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+![average_rating](Average_IMDB_Ratings.png)
+
+![TMDB_popularity](Average_TMDB_Popularity.png)
+
+![month_genre_gross_median](month_genre_gross_median.png)
 
 ## Getting Started
 
