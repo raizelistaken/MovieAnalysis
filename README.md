@@ -6,15 +6,15 @@ The Movie project involves gathering data from APIs and webscraping. After data 
 
 ### Data
 
-Movie datasets are collected from:
-    * IMDB website with Beautiful Soup
-    * https://www.themoviedb.org/ with API call
+#### Movie datasets are collected from:
+  * IMDB website with Beautiful Soup
+  * https://www.themoviedb.org/ with API call
 
-The visuals were provided by manipulating the following variables:
-    * Movie Genres
-    * Movie Gross
-    * Movie Release Date
-    * Movie Ratings
+#### The visuals were provided by manipulating the following variables:
+  * Movie Genres
+  * Movie Gross
+  * Movie Release Date
+  * Movie Ratings
 
 
 ### Graphs
