@@ -11,6 +11,11 @@ Movie datasets are collected from:
 * IMDB website with Beautiful Soup
 * https://www.themoviedb.org/ with API call
 
+Worked with:
+* Movie Genres
+* Movie Gross
+* Movie Release Date
+* Movie Ratings
 
 
 ## Deliverables
