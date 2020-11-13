@@ -32,7 +32,8 @@ Adventure, family, animation, and action generate the largest revenue.
 This boxplot demonstrates the IMDB Ratings of each genre. War movies have the highest average rating and the largest variation. 
 ![average_rating](Average_IMDB_Ratings.png)
 
-
+From the graph one can see family, animation, fantasy, and adventure are more popular, on average. 
 ![TMDB_popularity](Average_TMDB_Popularity.png)
 
+These graphs were made to show if there is any variation per month in gross per genre.
 ![month_genre_gross_median](month_genre_gross_median.png)
