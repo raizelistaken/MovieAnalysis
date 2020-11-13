@@ -19,7 +19,7 @@ The MovieAnalysis project involves gathering data from APIs and webscraping. Aft
   * Runtime
 
 
-### Graphs
+### Graphs / Findings
 
 This graph demonstrates the skewed distribution. 
 ![gross_earnings_distribution](graphs/gross_earnings_distribution.jpg)
@@ -41,11 +41,9 @@ Family has the highest TMDB popularity rating, followed by animation.
 ![TMDB_popularity](graphs/Average_TMDB_Popularity.png)
 
 
-
+This graph shows the change in gross per genre over the course of each month. For example, in November, animation, family, and adventure generated the most revenue. 
 ![month_genre_gross_median](graphs/month_genre_gross_median.png)
 
 
 This graph demonstrates the runtime of a movie throughout the last 100 years.
 ![runtime_decades](graphs/runtime_decades.JPG)
-
-
