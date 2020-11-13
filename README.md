@@ -2,20 +2,19 @@
 
 ## Project Overview
 
-The Movie project involves gathering data from APIs and webscraping. After data was gathered exploratory data analysis was used to generate insights for a Microsoft. 
+The Movie project involves gathering data from APIs and webscraping. After data was gathered, exploratory data analysis was used to generate insights for a Microsoft. 
 
 ### Data
 
 Movie datasets are collected from:
+    * IMDB website with Beautiful Soup
+    * https://www.themoviedb.org/ with API call
 
-* IMDB website with Beautiful Soup
-* https://www.themoviedb.org/ with API call
-
-Worked with:
-* Movie Genres
-* Movie Gross
-* Movie Release Date
-* Movie Ratings
+The visuals were provided by manipulating the following variables:
+    * Movie Genres
+    * Movie Gross
+    * Movie Release Date
+    * Movie Ratings
 
 
 ### Graphs
