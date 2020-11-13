@@ -42,7 +42,7 @@ Family has the highest TMDB popularity rating, followed by animation.
 
 
 This graph shows the change in gross per genre over the course of each month. For example, in November, animation, family, and adventure generated the most revenue. 
-![month_genre_gross_median](graphs/month_genre_gross_median.png)
+![month_genre_gross_median](graphs/Median_Gross_Revenue.png)
 
 
 This graph demonstrates the runtime of a movie throughout the last 100 years.
