@@ -16,6 +16,7 @@ The MovieAnalysis project involves gathering data from APIs and webscraping. Aft
   * Release Month
   * IMDB Ratings
   * TMDB Popularity
+  * Runtime
 
 
 ### Graphs
