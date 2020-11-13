@@ -22,7 +22,7 @@ Worked with:
 
 ![gross_earnings_distribution](gross_earnings_distribution.jpg)
 
-![distribution_genre](Distribution_genre.jpg)
+![distribution_genre](Distribution_genre.png)
 
 ![average_gross_earnings](Average_Gross_Earnings.png)
 
