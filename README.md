@@ -18,17 +18,9 @@ Worked with:
 * Movie Ratings
 
 
-## Deliverables
+### Graphs
 
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
+![gross_earnings_distribution](gross_earnings_distribution.jpg)
 
 * **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
 
