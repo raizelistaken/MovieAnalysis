@@ -30,7 +30,7 @@ This graph demonstrates the popularity of each genre from the TMDB database. Dra
 
 
 Adventure, family, animation, and action generate the largest revenue. 
-![average_gross_earnings](graphs/Average_Gross_Earnings.png)
+![average_gross_earnings](graphs/median_genre.PNG)
 
 
 This boxplot demonstrates the IMDB Ratings of each genre. War movies have the highest IMDB ratings as well as the greatest range.
