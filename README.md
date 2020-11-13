@@ -44,7 +44,5 @@ Family has the highest TMDB popularity rating, followed by animation.
 Rewrite this.
 ![month_genre_gross_median](graphs/month_genre_gross_median.png)
 
-![runtime_decades](runntime_decades.JPG)
-
-Add final diagram.
+![runtime_decades](runtime_decades.JPG)
 
